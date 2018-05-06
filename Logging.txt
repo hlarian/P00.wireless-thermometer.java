@@ -1,0 +1,30 @@
+Oct 28, 2017 9:57:25 PM dhtwireless.TempSceneController log
+INFO: Connecting to... :10.210.105.150:8080
+Oct 28, 2017 9:57:46 PM dhtwireless.TempSceneController log
+INFO: Connection Exception: java.net.ConnectException: Connection timed out: connect
+Oct 28, 2017 9:57:46 PM dhtwireless.TempSceneController log
+INFO: don't Connect to10.210.105.150:8080
+Oct 28, 2017 9:59:32 PM dhtwireless.TempSceneController log
+INFO: Connecting to... :10.210.105.150:8080
+Oct 28, 2017 9:59:53 PM dhtwireless.TempSceneController log
+INFO: Connection Exception: java.net.ConnectException: Connection timed out: connect
+Oct 28, 2017 9:59:53 PM dhtwireless.TempSceneController log
+INFO: don't Connect to10.210.105.150:8080
+Oct 28, 2017 10:07:12 PM dhtwireless.TempSceneController log
+INFO: Connecting to... :10.210.105.153:8080
+Oct 28, 2017 10:07:33 PM dhtwireless.TempSceneController log
+INFO: Connection Exception: java.net.ConnectException: Connection timed out: connect
+Oct 28, 2017 10:07:33 PM dhtwireless.TempSceneController log
+INFO: don't Connect to10.210.105.153:8080
+Oct 28, 2017 10:08:32 PM dhtwireless.TempSceneController log
+INFO: Connecting to... :10.210.105.153:8080
+Oct 28, 2017 10:08:53 PM dhtwireless.TempSceneController log
+INFO: Connection Exception: java.net.ConnectException: Connection timed out: connect
+Oct 28, 2017 10:08:53 PM dhtwireless.TempSceneController log
+INFO: don't Connect to10.210.105.153:8080
+Oct 28, 2017 10:11:58 PM dhtwireless.TempSceneController log
+INFO: Connecting to... :10.210.105.153:8080
+Oct 28, 2017 10:12:19 PM dhtwireless.TempSceneController log
+INFO: Connection Exception: java.net.ConnectException: Connection timed out: connect
+Oct 28, 2017 10:12:19 PM dhtwireless.TempSceneController log
+INFO: don't Connect to10.210.105.153:8080
